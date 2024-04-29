@@ -1,1 +1,1 @@
-ALX-INTERVIEW
+# Sample Technical Interview Quizzes
